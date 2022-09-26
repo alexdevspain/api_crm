@@ -1,0 +1,50 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edgar",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "129918398193",
+      "notas": "El Cliente solicita un servidor",
+      "id": 6
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "9183981398139",
+      "notas": "",
+      "id": 7
+    } , {
+      "nombre": "William",
+      "empresa": "Meta",
+      "email": "meta@correo.com",
+      "telefono": "5828398193",
+      "notas": "El Cliente solicita un meeting",
+      "id": 16
+    },
+    {
+      "nombre": "Caroline",
+      "empresa": "Nike",
+      "email": "Nike@correo.com",
+      "telefono": "915874598139",
+      "notas": "",
+      "id": 17
+    },  {
+      "nombre": "Jhon",
+      "empresa": "Zara",
+      "email": "Zara@correo.com",
+      "telefono": "129918398193",
+      "notas": "El Cliente solicita un reembolso",
+      "id": 26
+    },
+    {
+      "nombre": "Alejandro",
+      "empresa": "2CP",
+      "email": "2cp@correo.com",
+      "telefono": "96287161398139",
+      "notas": "",
+      "id": 27
+    }
+  ]
+}
