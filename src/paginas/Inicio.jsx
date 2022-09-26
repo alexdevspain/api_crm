@@ -8,10 +8,14 @@ const Inicio = () => {
     useEffect(() => {
         const obtenerClientesAPI = async () => {
             try {
+                // console.log(import.meta.env.VITE_API_URL)
                 const url = import.meta.env.VITE_API_URL
                 const respuesta = await fetch(url)
+                // console.log(respuesta)
                 const resultado = await respuesta.json()
+                // console.log(resultado)
                 setClientes(resultado)
+                
             } catch (error) {
                 console.log(error)
             }
